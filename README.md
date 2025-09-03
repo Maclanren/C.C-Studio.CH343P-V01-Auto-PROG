@@ -17,4 +17,4 @@ USB to serial port module based on CH343P, with RTS and DTR
 4. The 5V0/3V3 does not have an anti-backflow function. When the subsequent connected device (module /demo board) has an additional input power supply, please do not connect it to the 5V0 or 3V3 of the burner. Just connect it to the reference ground.
 
 ## Driver install
-See the `Drivers` folder
+See the `02.Drivers` folder
